@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-alpha.8]
+
+### Breaking Changes
+
+- [`100d9ede`](https://www.github.com/tauri-apps/tauri/commit/100d9ede35995d9db21d2087dd5606adfafb89a5)([#7785](https://www.github.com/tauri-apps/tauri/pull/7785)) Follow file name conventions set by desktop for mobile Tauri configuration files. Added `target` argument on most `config::parse` methods.
+
 ## \[2.0.0-alpha.7]
 
 ### New Features

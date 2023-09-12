@@ -1,5 +1,16 @@
 # Changelog
 
+## \[2.0.0-alpha.15]
+
+### Bug Fixes
+
+- [`100d9ede`](https://www.github.com/tauri-apps/tauri/commit/100d9ede35995d9db21d2087dd5606adfafb89a5)([#7785](https://www.github.com/tauri-apps/tauri/pull/7785)) Properly read platform-specific configuration files for mobile targets.
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.0.0-alpha.8`
+- Upgraded to `tauri-bundler@2.0.0-alpha.9`
+
 ## \[2.0.0-alpha.14]
 
 ### Breaking Changes

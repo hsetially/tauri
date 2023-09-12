@@ -1,5 +1,19 @@
 # Changelog
 
+## \[2.0.0-alpha.15]
+
+### Bug Fixes
+
+- [`a68ccaf5`](https://www.github.com/tauri-apps/tauri/commit/a68ccaf59a6731dc030bdb4642a35e3bc64d5769)([#7815](https://www.github.com/tauri-apps/tauri/pull/7815)) Fix `asset` protocol failing to fetch files.
+
+### Dependencies
+
+- Upgraded to `tauri-macros@2.0.0-alpha.8`
+- Upgraded to `tauri-utils@2.0.0-alpha.8`
+- Upgraded to `tauri-build@2.0.0-alpha.9`
+- Upgraded to `tauri-runtime@1.0.0-alpha.2`
+- Upgraded to `tauri-runtime-wry@1.0.0-alpha.3`
+
 ## \[2.0.0-alpha.14]
 
 ### Bug Fixes
