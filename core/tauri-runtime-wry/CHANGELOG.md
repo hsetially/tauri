@@ -1,5 +1,16 @@
 # Changelog
 
+## \[0.14.1]
+
+### Bug Fixes
+
+- [`4bf1e85e`](https://www.github.com/tauri-apps/tauri/commit/4bf1e85e6bf85a7ec92d50c8465bc0588a6399d8)([#7722](https://www.github.com/tauri-apps/tauri/pull/7722)) Properly respect the `focused` option when creating the webview.
+
+### Dependencies
+
+- Upgraded to `tauri-utils@1.5.0`
+- Upgraded to `tauri-runtime@0.14.1`
+
 ## \[0.14.0]
 
 ### New Features

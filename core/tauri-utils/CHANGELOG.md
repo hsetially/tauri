@@ -1,5 +1,19 @@
 # Changelog
 
+## \[1.5.0]
+
+### New Features
+
+- [`4dd4893d`](https://www.github.com/tauri-apps/tauri/commit/4dd4893d7d166ac3a3b6dc2e3bd2540326352a78)([#5950](https://www.github.com/tauri-apps/tauri/pull/5950)) Allow specifying resources as a map specifying source and target paths.
+
+### Bug Fixes
+
+- [`a6b52e44`](https://www.github.com/tauri-apps/tauri/commit/a6b52e44f22844009e273fb0250368d7a463f095)([#6519](https://www.github.com/tauri-apps/tauri/pull/6519)) Fix `io::read_line` not including the new line character `\n`.
+
+### Security fixes
+
+- [`eeff1784`](https://www.github.com/tauri-apps/tauri/commit/eeff1784e1ffa568e4ba024e17dd611f8e086784)([#7367](https://www.github.com/tauri-apps/tauri/pull/7367)) Changed HTML implementation from unmaintained `kuchiki` to `kuchikiki`.
+
 ## \[1.4.0]
 
 ### New Features

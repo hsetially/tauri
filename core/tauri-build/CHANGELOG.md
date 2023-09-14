@@ -1,5 +1,16 @@
 # Changelog
 
+## \[1.4.1]
+
+### Bug Fixes
+
+- [`290e366a`](https://www.github.com/tauri-apps/tauri/commit/290e366ae98e9a52b1b43bfd3e285150427ebffa)([#7419](https://www.github.com/tauri-apps/tauri/pull/7419)) Correctly copy the WebView2 runtime in development when `webviewInstallMode` is used instead of `webviewFixedRuntimePath`.
+
+### Dependencies
+
+- Upgraded to `tauri-utils@1.5.0`
+- Upgraded to `tauri-codegen@1.4.1`
+
 ## \[1.4.0]
 
 ### Enhancements
